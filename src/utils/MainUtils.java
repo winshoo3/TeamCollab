@@ -13,4 +13,8 @@ public class MainUtils {
     public static void flyingKite(){
 
     }
+
+    public static void main(String[] args) {
+       // MainUtils.coolMehtod();
+    }
 }
